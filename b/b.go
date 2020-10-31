@@ -1,3 +1,3 @@
 package b
 
-const Name = "Gopher part 2"
+const Name = "Gopher part Trois"
