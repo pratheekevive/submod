@@ -4,10 +4,13 @@ import (
 	"fmt"
 
 	"github.com/pratheekevive/submod/b"
+	"github.com/pratheekevive/submod/c"
 )
 
 const Name = b.Name
 
 func main() {
-	fmt.Print(Name)
+	fmt.Println(Name)
+
+	c.Hello()
 }

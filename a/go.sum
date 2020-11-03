@@ -1,5 +1,4 @@
-github.com/pratheekevive/submod v0.0.0-20201031203227-f4dd1f5565dc h1:OO+RFP8fa03VrcCCFVfVCgI0/5o9pIexYAjJN6cgFnE=
-github.com/pratheekevive/submod/b v0.1.0 h1:GkSKsavdaohztCb+km6PBvYZlRThd45zRuOCei1//Yk=
-github.com/pratheekevive/submod/b v0.1.0/go.mod h1:0wxOhPuyMdQaz0fDeAhTbwxMF1v7bj6dNyAMG/blFcE=
-github.com/pratheekevive/submod/b v0.1.1 h1:7HinWqG4RRwkAS8Ch7mUuXw3qMZdeZmfA06sK13DfhY=
-github.com/pratheekevive/submod/b v0.1.1/go.mod h1:0wxOhPuyMdQaz0fDeAhTbwxMF1v7bj6dNyAMG/blFcE=
+github.com/pratheekevive/submod/b v0.1.2 h1:ieuuUbWbfEyfPFTWG4pzCvEuIV4MWl7lPbzujfSGt/Q=
+github.com/pratheekevive/submod/b v0.1.2/go.mod h1:0wxOhPuyMdQaz0fDeAhTbwxMF1v7bj6dNyAMG/blFcE=
+github.com/pratheekevive/submod/c v0.1.0 h1:EJ/Lakwg1zaLzL2BlgYFLlpxRFa/q9H4YQBoNQ0Fcbw=
+github.com/pratheekevive/submod/c v0.1.0/go.mod h1:Bk8EGw0aYeybALqkuLFG56iO2DYA08nyTH9SqvIQBmM=
